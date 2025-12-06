@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Welcome to My Dev Blog
+title: Welcome to My Projects Blog
 ---
 
 # Welcome!
 
-This is my developer blog where I share thoughts, tutorials, and experiences about software development.
+This is a blog about my personal projects usually revolving around and Android particularly Nothing Devices. Ill also talk about random ideas and just general thoughts.
 
 Check out my latest blog posts below!
