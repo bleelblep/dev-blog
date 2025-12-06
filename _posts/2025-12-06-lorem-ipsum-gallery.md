@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 ## About GlyphBuddy
 
-![About GlyphBuddy](/_images/about-glyphbuddy-1.5.jpg)
+![About GlyphBuddy]({{ site.baseurl }}/images/about-glyphbuddy-1.5.jpg)
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -19,7 +19,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 ## Music Features
 
-![Music GlyphBuddy](/_images/music-glyphbuddy-1.5.jpg)
+![Music GlyphBuddy]({{ site.baseurl }}/images/music-glyphbuddy-1.5.jpg)
 
 Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
 
@@ -27,7 +27,7 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 
 ## Weather Display
 
-![Weather GlyphBuddy](/_images/weather-glyphbuddy-1.5.jpg)
+![Weather GlyphBuddy]({{ site.baseurl }}/images/weather-glyphbuddy-1.5.jpg)
 
 Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.
 

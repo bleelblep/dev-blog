@@ -1,3 +1,4 @@
 title: My Projects
-description: A blog about my personal projects, random 
+description: A blog about my personal projects, random
+baseurl: "/dev-blog"
 theme: minima
