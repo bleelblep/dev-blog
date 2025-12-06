@@ -1,21 +1,23 @@
 ---
 layout: post
-title: "Lorem Ipsum Gallery"
+title: "Glyph Buddy UI"
 date: 2025-12-06
 categories: gallery
 ---
 
-# Lorem Ipsum Dolor Sit Amet
+# Current UI State
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Before i make a post about the glyph navigation and the reason itll never be public i thought id make a post about the UI and showcase each screen 
 
 ## About GlyphBuddy
 
 ![About GlyphBuddy]({{ site.baseurl }}/images/about-glyphbuddy-1.5.jpg)
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+So this is the about screen. Its main purpose is to give a little description for the apps features and a few other things.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+The most important part of this screen are the required permissions and changelog button. 
+
+Im not entirely happy with the color of the required permission buttons but theyre servicable and functional which is okay. UX is important so on first install theres an onboarding screen that asks the users to give the app the required permissions and tries to guide them through enabling them. In case something goes wrong or they choose skip for now i decided to add clear indicators in the about screen. Tapping on each permission brings you to their respective settings so you can enable them.
 
 ## Music Features
 
