@@ -3,6 +3,7 @@ layout: post
 title: "Thoughts about making Glyph Buddy public"
 date: 2025-12-05
 categories: general
+published: false
 ---
 
 # What is Glyph Buddy?
