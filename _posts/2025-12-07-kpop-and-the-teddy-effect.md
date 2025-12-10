@@ -3,7 +3,7 @@ layout: post
 title: "K-pop and the Teddy Effect"
 date: 2025-12-07
 categories: post
-published: false
+published: true
 ---
 
 Now for a completely unreleated topic but but something im very very interested in k-pop.
